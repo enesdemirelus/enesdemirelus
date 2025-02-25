@@ -32,20 +32,10 @@ Hello 👋 My name is Enes Demirel. I am pursuing a degree in Mathematics and Co
 
 #
 
-### 📺 My Project Videos:
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Image Editor Using Tkinter and PIL](https://ytcards.demolab.com/?id=2uD828U2_5w&title=Image+Editor+Using+Tkinter+and+PIL&lang=en&timestamp=1732550404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1013 "Image Editor Using Tkinter and PIL")](https://www.youtube.com/watch?v=2uD828U2_5w)
-[![Chat App with Tkinter and Sockets](https://ytcards.demolab.com/?id=8E6c6BAzsyo&t=1s&title=Chat+App+with+Tkinter+and+Sockets&lang=en&timestamp=1732287637&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=981 "Chat App with Tkinter and Sockets")](https://www.youtube.com/watch?v=8E6c6BAzsyo&t=1s)
-[![Library Management with SQLite3](https://ytcards.demolab.com/?id=b5RazIDovmw&t=6s&title=Library+Management+with+SQLite3&lang=en&timestamp=1730728856&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1343 "Library Management with SQLite3")](https://www.youtube.com/watch?v=b5RazIDovmw&t=6s)
-[![Weather App with OpenWeather API](https://ytcards.demolab.com/?id=9-y105fEL4A&title=Weather+App+with+OpenWeather+API&lang=en&timestamp=1730376039&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2259 "Weather App with OpenWeather API")](https://www.youtube.com/watch?v=9-y105fEL4A)
-[![YouTube Video Summarizer](https://ytcards.demolab.com/?id=9UvavoK4OTc&title=YouTube+Video+Summarizer&lang=en&timestamp=1730125816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=606 "YouTube Video Summarizer")](https://www.youtube.com/watch?v=9UvavoK4OTc)
-[![Vending Machine with Raspberry Pi](https://ytcards.demolab.com/?id=4RW0HFB0Q6o&title=Vending+Machine+with+Raspberry+Pi&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029 "Vending Machine with Raspberry Pi")](https://www.youtube.com/watch?v=4RW0HFB0Q6o)
-<!-- END YOUTUBE-CARDS -->
-
-
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=enesdemirelus&show_icons=true&theme=gruvbox)
+
+https://camo.githubusercontent.com/ab5ba89f277a83e9152121775efc36c2b2743d80d9285f9491629dc36be26ee8/68747470733a2f2f6c656574636172642e6a61636f626c696e2e636f6f6c2f6b6b6572346d3f6578743d6163746976697479
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
