@@ -2,7 +2,7 @@
 
 **`Math and CS @ DePaul University | SWE Intern @ AI Research Labs`**
 
-Hello 👋 My name is Enes Demirel. I am pursuing a degree in Mathematics and Computer Science at DePaul University and working as SWE Intern. Here, you can explore my personal and academic projects.
+Hello 👋 My name is Enes Demirel. I am pursuing a degree in Mathematics and Computer Science at DePaul University. Here, you can explore my personal and academic projects.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
@@ -36,6 +36,6 @@ Hello 👋 My name is Enes Demirel. I am pursuing a degree in Mathematics and Co
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=enesdemirelus&show_icons=true&theme=gruvbox)
 
-https://camo.githubusercontent.com/ab5ba89f277a83e9152121775efc36c2b2743d80d9285f9491629dc36be26ee8/68747470733a2f2f6c656574636172642e6a61636f626c696e2e636f6f6c2f6b6b6572346d3f6578743d6163746976697479
+![Leetcode Stats](https://leetcard.jacoblin.cool/656E6573?theme=forest)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
