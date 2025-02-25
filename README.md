@@ -1,8 +1,6 @@
 # 👨🏻‍💻 Enes Demirel
 
-**`Math and CS @ DePaul University | SWE Intern @ AI Research Labs`**
-
-Hello 👋 My name is Enes Demirel. I am pursuing a degree in Mathematics and Computer Science at DePaul University. Here, you can explore my personal and academic projects.
+**`Math and CS @ DePaul University`**
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
