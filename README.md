@@ -3,10 +3,6 @@
 **`Math and CS @ DePaul University`**
 
    <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-   <a href="https://www.youtube.com/@demirelnes" target="_blank">
-      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCNsJASnYEEbMfbWCxGTDCJg?color=%23E05D44&label=My Portfolio&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-   </a>
    <a href="https://www.linkedin.com/in/demirelnes/" target="_blank">
       <img alt="linkedin" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077b5"/>
    </a>
