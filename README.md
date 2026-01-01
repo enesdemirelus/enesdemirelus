@@ -8,7 +8,11 @@
       <img alt="linkedin" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077b5"/>
    </a>
 
-   <a href="https://demirelenes.dev/" target="_blank">
-    <img alt="demirelenes.dev" title="Visit My Personal Website" src="https://custom-icon-badges.demolab.com/badge/-EnesDemirel.dev-green?style=for-the-badge&logo=globe&logoColor=white&labelColor=228B22"/>
+<a href="https://demirelenes.dev/" target="_blank">
+  <img
+    alt="demirelenes.dev"
+    title="Visit My Personal Website"
+    src="https://custom-icon-badges.demolab.com/badge/-demirelenes.dev-green?style=for-the-badge&logo=globe&logoColor=white&labelColor=228B22"
+  />
 </a>
 
