@@ -8,28 +8,6 @@
    </a>
 
    <a href="https://enesdemirel.dev" target="_blank">
-    <img alt="enesdemirel.dev" title="Visit My Personal Website" src="https://custom-icon-badges.demolab.com/badge/-EnesDemirel.dev-green?style=for-the-badge&logo=globe&logoColor=white&labelColor=228B22"/>
+    <img alt="demirelenes.dev" title="Visit My Personal Website" src="https://custom-icon-badges.demolab.com/badge/-EnesDemirel.dev-green?style=for-the-badge&logo=globe&logoColor=white&labelColor=228B22"/>
 </a>
 
----
-
-### 🧰 Languages and Tools
-
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br />
-
-#
-
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=enesdemirelus&show_icons=true&theme=gruvbox)
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/656E6573?theme=forest)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
