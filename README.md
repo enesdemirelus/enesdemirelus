@@ -1,6 +1,7 @@
 # 👨🏻‍💻 Enes Demirel
 
 **`Math and CS @ DePaul University`**
+**`Software Developer Intern @ Airblox`**
 
    <p align="left">
    <a href="https://www.linkedin.com/in/demirelnes/" target="_blank">
